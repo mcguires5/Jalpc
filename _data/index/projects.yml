@@ -5,7 +5,7 @@
   i18n: Comp-Arch-Processor
   gh_user: Llcoolsouder
   repo: Comp-Arch-Processor
-  img: /static/assets/img/landing/processor.jpg
+  img: /static/assets/img/landing/processor.png
   desc: This is a harvard architecture processor implemented with tristate buffers to control the data buses.
 
 - name: Python
