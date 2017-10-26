@@ -11,7 +11,7 @@ img_path: /SeanMcGuire/static/assets/img/blog  # url should be '/homepage/static
 
 # author -- index page "about me" section
 author:  # change following line to your infomation.
-  name: GitHub  # Be used at blog posts' author.
+  name: Sean McGuire  # Be used at blog posts' author.
   first_name: Sean  # Be used at index page about me section.
   last_name: McGuire  # Be used at index page about me section.
   avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
@@ -28,7 +28,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-linux
     - name: icon-apache
-  desc: Introduce myself will be here.  # Describe yourself.
+  desc: I am a junior Electrical and Computer Engineering major with hands on engineering experience. I enjoy tackling complex software based problems. I have an interest in machine learning and am currently enrolled in multilple machine learning based classes.  # Describe yourself.
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
