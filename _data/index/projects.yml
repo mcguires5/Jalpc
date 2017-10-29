@@ -8,12 +8,12 @@
   img: /static/assets/img/landing/processor.png
   desc: This is a harvard architecture processor implemented with tristate buffers to control the data buses.
 
-- name: Python
-  i18n: cpython
-  gh_user: python
-  repo: cpython
-  img: /static/assets/img/landing/python.png
-  desc: This project is other's project. I use another request to get repo's information.
+- name: Machine Learning 1
+  i18n: MachineLearning1
+  gh_user: mcguires5
+  repo: MachineLearning1
+  img: /static/assets/img/landing/matlab.png
+  desc: This repo contains a series of projects completed in the class Machine Learning 1. These projects were written in matlab.
 
 - name: Google
   i18n: google
