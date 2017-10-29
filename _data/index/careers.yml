@@ -1,29 +1,16 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Company A
-    i18n: company_a
+    detail: II-VI Inc. Advanced Materials
+    i18n: II-VI Inc. Advanced Materials
   desc:
-    detail: I worked at Company A ...
-    i18n: company_a_desc
+    detail: II-VI Advanced Materials produces Silicone Carbide substraights which have applications in high power electronics and high frequency and high temperature enviornments.
+    i18n: II-VI Advanced Materials produces Silicone Carbide substraights which have applications in high power electronics and high frequency and high temperature enviornments.
   date:
-    detail: Apr. 2016
-    i18n: company_a_date
+    detail: June 2013 - August 2017
+    i18n: June 2013 - August 2017
   job:
-    detail: CTO
-    i18n: company_a_job
-  icon: fa-plus-square
+    detail: Engineering Assistant
+    i18n: Engineering Assistant
+  icon: 
 
-- name:
-    detail: Company B
-    i18n: company_b
-  desc:
-    detail: I worked at Company B ...
-    i18n: company_b_desc
-  date:
-    detail: Jun. 2015
-    i18n: company_b_date
-  job:
-    detail: Full Stack Developer
-    i18n: company_b_job
-  icon: fa-plus-square
