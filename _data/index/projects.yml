@@ -15,8 +15,3 @@
   img: /static/assets/img/landing/matlab.png
   desc: This repo contains a series of projects completed in the class Machine Learning 1. These projects were written in matlab.
 
-- name: Google
-  i18n: google
-  url: https://google.com
-  img: /static/assets/img/landing/google.png
-  desc: This is another project.
