@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: Machine Learning, Verilog, C, Git, Python, C++, Embedded Design, Image Processing
-percentage: 80, 85, 90, 75, 90, 95, 90, 85
+aspects: Machine Learning, Git, Verilog, C, Python, C++, Embedded Design, Image Processing
+percentage: 80, 75, 85, 90, 95, 90, 85, 80
