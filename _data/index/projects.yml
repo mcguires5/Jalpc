@@ -6,7 +6,7 @@
   gh_user: Llcoolsouder
   repo: Comp-Arch-Processor
   img: /static/assets/img/landing/processor.png
-  desc: This is a harvard architecture processor implemented with tristate buffers to control the data buses.
+  desc: This is a harvard architecture processor built from basic logic and verilog blocks. 
 
 - name: Machine Learning 1
   i18n: MachineLearning1
