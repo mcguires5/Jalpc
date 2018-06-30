@@ -23,4 +23,8 @@
   name: Projects
   tpl: projects.html
   css: project
-
+- id: Publications
+  i18n: nav.publications
+  name: Publications
+  tpl: publications.html
+  css:
