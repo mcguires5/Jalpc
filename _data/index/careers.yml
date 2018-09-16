@@ -7,10 +7,25 @@
     detail: II-VI Advanced Materials produces Silicone Carbide substrates which have applications in high power electronics and high frequency and high temperature enviornments.
     i18n: II-VI Advanced Materials produces Silicone Carbide substrates which have applications in high power electronics and high frequency and high temperature enviornments.
   date:
-    detail: June 2014 - August 2017
-    i18n: June 2014 - August 2017
+    detail: June 2014 - August 2018
+    i18n: June 2014 - August 2018
   job:
     detail: Engineering Assistant
     i18n: Engineering Assistant
-  icon: /static/assets/img/landing/IIVI.jpg
+  icon: fa fa-plus-square
+#  icon: /static/assets/img/landing/IIVI.jpg
 
+- name:
+    detail: Rowan SPPRL
+    i18n: Rowan SPPRL
+  desc:
+    detail: Participated in Adversarial Machine Learning Research with Dr. Robi Polikar and Rowan Univerisity Signal Processing and Pattern Recognition Laboratory (SPPRL). This work includes researching the current state of Adversarial Machine Leanring with the goal of creating a novel attack or defense. 
+    i18n: Participated in Adversarial Machine Learning Research with Dr. Robi Polikar and Rowan Univerisity Signal Processing and Pattern Recognition Laboratory (SPPRL). This work includes researching the current state of Adversarial Machine Leanring with the goal of creating a novel attack or defense. 
+  date:
+    detail: June 2018 - Present
+    i18n: June 2018 - Present
+  job:
+    detail: Undergraduate Researcher
+    i18n: Undergraduate Researcher
+   icon: fa fa-plus-square
+#    icon: /static/assets/img/landing/spprl.jpg
