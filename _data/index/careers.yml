@@ -12,7 +12,7 @@
   job:
     detail: Engineering Assistant
     i18n: Engineering Assistant
-  icon: fa fa-plus-square
+  icon: fa-plus-square
 #  icon: /static/assets/img/landing/IIVI.jpg
 
 - name:
@@ -27,5 +27,5 @@
   job:
     detail: Undergraduate Researcher
     i18n: Undergraduate Researcher
-   icon: fa fa-plus-square
+   icon: fa-plus-square
 #    icon: /static/assets/img/landing/spprl.jpg
