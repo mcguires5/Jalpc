@@ -13,7 +13,7 @@
     detail: Engineering Assistant
     i18n: Engineering Assistant
 #  icon: fa-plus-square
-  icon: /static/assets/img/landing/IIVI.jpg
+  icon: /SeanMcGuire/static/assets/img/landing/IIVI.jpg
 
 - name:
     detail: Rowan SPPRL
@@ -28,4 +28,4 @@
     detail: Undergraduate Researcher
     i18n: Undergraduate Researcher
 #  icon: fa-plus-square
-  icon: /static/assets/img/landing/spprl.jpg
+  icon: /SeanMcGuire/static/assets/img/landing/spprl.jpg
