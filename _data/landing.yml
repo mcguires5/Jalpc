@@ -29,3 +29,9 @@
   name: Publications
   tpl: publications.html
   css:
+  
+- id: Certifications
+  i18n: nav.certifications
+  name: Certifications
+  tpl: certifications.html
+  css:
