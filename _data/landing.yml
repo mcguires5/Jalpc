@@ -24,9 +24,9 @@
   tpl: projects.html
   css: project
   
-- id: Publications
+- id: Papers
   i18n: nav.publications
-  name: Publications
+  name: Papers
   tpl: publications.html
   css:
   
