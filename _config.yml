@@ -28,7 +28,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-linux
     - name: icon-apache
-  desc: I am a graduate Electrical and Computer Engineering major with industry experience in engineering and machine learning. I have recieved a bachelor's degree in Electrical and Computer Engineering from Rowan University. I enjoy tackling complex software based problems. I have an interest in machine learning have completed multilple machine learning based classes.  # Describe yourself.
+  desc: I am a graduate Electrical and Computer Engineering student with industry experience in engineering and machine learning. I have recieved a bachelor's degree in Electrical and Computer Engineering from Rowan University. I have completed all requirements for the Master of Science in Electrical and Computer Engineering degree pending a successful thesis defense. I have an interest in machine learning have completed multilple machine learning based classes including, Introduction to Machine Learning, Deep Learning, Reinforcement Learning, and Graduate Machine Learning 1.  # Describe yourself.
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
